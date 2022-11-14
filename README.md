@@ -46,6 +46,6 @@ This repository contains two types of bayesian lauer implementation:
 `config_frequentist.py`: Hyperparameters for `main_frequentist` file.  
 `AttackingModels.ipynb` : Attacks performed on BNNs and plot generated
 
-A detailed report written as a part of course project for CS690- Deep Learning Course at Purdue University is given.
+A detailed Report [here](Robustness_Report.pdf) written as a part of course project for CS690- Deep Learning Course at Purdue University is given.
 
 
